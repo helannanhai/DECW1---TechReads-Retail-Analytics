@@ -7,10 +7,10 @@ CMP-X304-0 Data Engineering — Coursework 1
 ## Group Members
 | Name | Student ID | Responsible Task |
 |------|------------|-----------------|
-| 成员A | xxxxxxxx | Task 1 |
-| 成员B | xxxxxxxx | Task 2 |
-| 成员C | xxxxxxxx | Task 3 |
-| 成员D | xxxxxxxx | Task 4 |
+| Member A | xxxxxxxx | Task 1 |
+| MemberB | xxxxxxxx | Task 2 |
+| Member C | xxxxxxxx | Task 3 |
+| Member D | xxxxxxxx | Task 4 |
 
 ## Project Overview
 A complete data pipeline for TechReads, covering web scraping,
