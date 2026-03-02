@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxGraphModel>
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <!-- 表容器 (泳道) -->
+    <mxCell id="2" value="books" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#dae8fc;" vertex="1" parent="1">
+      <mxGeometry x="120" y="80" width="280" height="220" as="geometry"/>
+    </mxCell>
+    <!-- 字段行：id (主键) -->
+    <mxCell id="3" value="&lt;b&gt;id&lt;/b&gt; : INT (PK, AUTO_INCREMENT)" style="text;strokeColor=#000000;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;overflow=hidden;points=[];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="2">
+      <mxGeometry y="40" width="280" height="30" as="geometry"/>
+    </mxCell>
+    <!-- 字段行：title -->
+    <mxCell id="4" value="title : VARCHAR(255) NOT NULL" style="text;strokeColor=#000000;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;overflow=hidden;points=[];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+      <mxGeometry y="70" width="280" height="30" as="geometry"/>
+    </mxCell>
+    <!-- 字段行：author -->
+    <mxCell id="5" value="author : VARCHAR(255)" style="text;strokeColor=#000000;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;overflow=hidden;points=[];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+      <mxGeometry y="100" width="280" height="30" as="geometry"/>
+    </mxCell>
+    <!-- 字段行：year -->
+    <mxCell id="6" value="year : VARCHAR(10)" style="text;strokeColor=#000000;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;overflow=hidden;points=[];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+      <mxGeometry y="130" width="280" height="30" as="geometry"/>
+    </mxCell>
+    <!-- 字段行：rating -->
+    <mxCell id="7" value="rating : TINYINT" style="text;strokeColor=#000000;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;overflow=hidden;points=[];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+      <mxGeometry y="160" width="280" height="30" as="geometry"/>
+    </mxCell>
+    <!-- 字段行：price -->
+    <mxCell id="8" value="price : DECIMAL(6,2)" style="text;strokeColor=#000000;fillColor=#ffffff;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;overflow=hidden;points=[];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+      <mxGeometry y="190" width="280" height="30" as="geometry"/>
+    </mxCell>
+  </root>
+</mxGraphModel>
