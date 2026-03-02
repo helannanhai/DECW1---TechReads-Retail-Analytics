@@ -8,7 +8,7 @@ CMP-X304-0 Data Engineering — Coursework 1
 | Name | Student ID | Responsible Task |
 |------|------------|-----------------|
 | Member A | xxxxxxxx | Task 1 |
-| MemberB | xxxxxxxx | Task 2 |
+| Member B | xxxxxxxx | Task 2 |
 | Member C | xxxxxxxx | Task 3 |
 | Member D | xxxxxxxx | Task 4 |
 
