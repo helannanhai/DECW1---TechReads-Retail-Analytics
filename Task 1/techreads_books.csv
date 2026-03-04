@@ -1,21 +1,16 @@
-Title,Author,Year,Rating,Price
-Algorithms to Live By: The Computer Science of Human Decisions,N/A,N/A,1,30.81
-The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,N/A,N/A,5,42.91
-Tracing Numbers on a Train,N/A,N/A,3,41.6
-Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,N/A,N/A,2,54.35
-"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",N/A,N/A,5,29.93
-Rip it Up and Start Again,N/A,N/A,5,35.02
-Done Rubbed Out (Reightman & Bailey #1),N/A,N/A,5,37.72
-Brain on Fire: My Month of Madness,N/A,N/A,5,49.32
-Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,N/A,N/A,5,50.62
-"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",N/A,N/A,5,56.76
-Digital Fortress,N/A,N/A,5,58.0
-Code Name Verity (Code Name Verity #1),N/A,N/A,4,22.13
-"The End of Faith: Religion, Terror, and the Future of Reason",N/A,N/A,4,22.13
-The Mysterious Affair at Styles (Hercule Poirot #1),N/A,N/A,4,24.8
-Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,N/A,N/A,4,25.15
-A Walk in the Woods: Rediscovering America on the Appalachian Trail,N/A,N/A,4,30.48
-Twenty Love Poems and a Song of Despair,N/A,N/A,4,30.95
-"Codename Baboushka, Volume 1: The Conclave of Death",N/A,N/A,4,36.72
-Bounty (Colorado Mountain #7),N/A,N/A,4,37.26
-"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",N/A,N/A,4,44.18
+Title,Author,Year,Rating,RatingsCount,ReviewsCount,Source,URL
+Fundamentals of Data Engineering: Plan and Build Robust Data Systems,Joe Reis,2022,4.18,927,97,goodreads,https://www.goodreads.com/book/show/61218623-fundamentals-of-data-engineering
+Designing Data-Intensive Applications,Martin Kleppmann,2015,4.7,10692,947,goodreads,https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Ralph Kimball,1996,4.18,1036,65,goodreads,https://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit
+Data Pipelines Pocket Reference: Moving and Processing Data for Analytics,James Densmore,2021,3.77,242,31,goodreads,https://www.goodreads.com/book/show/55841851-data-pipelines-pocket-reference
+Database Internals: A deep-dive into how distributed data systems work,Alex Petrov,2019,4.26,558,69,goodreads,https://www.goodreads.com/book/show/44647144-database-internals
+Data Mesh: Delivering Data-Driven Value at Scale,Zhamak Dehghani,2022,3.79,380,40,goodreads,https://www.goodreads.com/book/show/58230358-data-mesh
+Data Pipelines with Apache Airflow,Bas P. Harenslak,2020,4.31,118,16,goodreads,https://www.goodreads.com/book/show/52778122-data-pipelines-with-apache-airflow
+Spark: The Definitive Guide: Big Data Processing Made Simple,Bill Chambers,2018,4.14,283,31,goodreads,https://www.goodreads.com/book/show/38467996-spark
+Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale,Neha Narkhede,2017,4.15,727,81,goodreads,https://www.goodreads.com/book/show/28321010-kafka
+Making Sense of Stream Processing,Martin Kleppmann,2016,4.25,190,30,goodreads,https://www.goodreads.com/book/show/29598815-making-sense-of-stream-processing
+Data Management at Scale: Best Practices for Enterprise Architecture,Piethein Strengholt,2020,4.09,106,14,goodreads,https://www.goodreads.com/book/show/53483744-data-management-at-scale
+Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS,Gareth Eagar,2021,4.21,19,2,goodreads,https://www.goodreads.com/book/show/59972139-data-engineering-with-aws
+Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,Paul Crickard,2020,3.62,26,21,goodreads,https://www.goodreads.com/book/show/55990373-data-engineering-with-python
+Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale,Jan Kunigk,2018,4.19,26,8,goodreads,https://www.goodreads.com/book/show/43271875-architecting-modern-data-platforms
+Learning Spark: Lightning-Fast Data Analytics,Jules S. Damji,2020,4.3,152,12,goodreads,https://www.goodreads.com/book/show/50204673-learning-spark
