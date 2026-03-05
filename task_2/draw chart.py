@@ -49,8 +49,11 @@ def create_drawio_er_diagram(filename="books_schema.drawio"):
         ("title", "VARCHAR(255)", "NOT NULL"),
         ("author", "VARCHAR(255)", ""),
         ("year", "VARCHAR(10)", ""),
-        ("rating", "TINYINT", ""),
-        ("price", "DECIMAL(6,2)", "")
+        ("rating", "DECIMAL(3,2)", ""),
+        ("ratings_count", "INT", ""),
+        ("reviews_count", "INT", ""),
+        ("source", "VARCHAR(50)", ""),
+        ("url", "VARCHAR(500)", "")
     ]
 
     # 记录上一个字段的 id 用于连接
