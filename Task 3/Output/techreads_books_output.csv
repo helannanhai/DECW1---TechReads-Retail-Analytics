@@ -1,0 +1,16 @@
+title,author,year,rating,ratings_count,reviews_count
+Fundamentals of Data Engineering: Plan and Build Robust Data Systems,Joe Reis,2022,4.18,929,97
+Designing Data-Intensive Applications,Martin Kleppmann,2015,4.70,10709,949
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Ralph Kimball,1996,4.18,1036,65
+Data Pipelines Pocket Reference: Moving and Processing Data for Analytics,James Densmore,2021,3.77,241,31
+Database Internals: A deep-dive into how distributed data systems work,Alex Petrov,2019,4.26,561,70
+Data Mesh: Delivering Data-Driven Value at Scale,Zhamak Dehghani,2022,3.79,380,40
+Data Pipelines with Apache Airflow,Bas P. Harenslak,2020,4.31,118,16
+Spark: The Definitive Guide: Big Data Processing Made Simple,Bill Chambers,2018,4.14,283,31
+Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale,Neha Narkhede,2017,4.15,728,81
+Making Sense of Stream Processing,Martin Kleppmann,2016,4.25,190,30
+Data Management at Scale: Best Practices for Enterprise Architecture,Piethein Strengholt,2020,4.09,106,14
+Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS,Gareth Eagar,2021,4.21,19,2
+Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,Paul Crickard,2020,3.62,26,21
+Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale,Jan Kunigk,2018,4.19,26,8
+Learning Spark: Lightning-Fast Data Analytics,Jules S. Damji,2020,4.30,152,12
