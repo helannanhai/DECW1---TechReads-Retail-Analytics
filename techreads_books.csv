@@ -1,0 +1,16 @@
+Title,Author,Year,Rating,RatingsCount,ReviewsCount,Source,URL
+Fundamentals of Data Engineering: Plan and Build Robust Data Systems,Joe Reis,2022,4.18,929,97,goodreads,https://www.goodreads.com/book/show/61218623-fundamentals-of-data-engineering
+Designing Data-Intensive Applications,Martin Kleppmann,2015,4.7,10714,949,goodreads,https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Ralph Kimball,1996,4.19,1037,65,goodreads,https://www.goodreads.com/book/show/748203.The_Data_Warehouse_Toolkit
+Data Pipelines Pocket Reference: Moving and Processing Data for Analytics,James Densmore,2021,3.77,241,31,goodreads,https://www.goodreads.com/book/show/55841851-data-pipelines-pocket-reference
+Database Internals: A deep-dive into how distributed data systems work,Alex Petrov,2019,4.26,561,70,goodreads,https://www.goodreads.com/book/show/44647144-database-internals
+Data Mesh: Delivering Data-Driven Value at Scale,Zhamak Dehghani,2022,3.79,380,40,goodreads,https://www.goodreads.com/book/show/58230358-data-mesh
+Data Pipelines with Apache Airflow,Bas P. Harenslak,2020,4.31,118,16,goodreads,https://www.goodreads.com/book/show/52778122-data-pipelines-with-apache-airflow
+Spark: The Definitive Guide: Big Data Processing Made Simple,Bill Chambers,2018,4.14,283,31,goodreads,https://www.goodreads.com/book/show/38467996-spark
+Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale,Neha Narkhede,2017,4.15,728,81,goodreads,https://www.goodreads.com/book/show/28321010-kafka
+Making Sense of Stream Processing,Martin Kleppmann,2016,4.25,190,30,goodreads,https://www.goodreads.com/book/show/29598815-making-sense-of-stream-processing
+Data Management at Scale: Best Practices for Enterprise Architecture,Piethein Strengholt,2020,4.09,106,14,goodreads,https://www.goodreads.com/book/show/53483744-data-management-at-scale
+Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS,Gareth Eagar,2021,4.21,19,2,goodreads,https://www.goodreads.com/book/show/59972139-data-engineering-with-aws
+Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python,Paul Crickard,2020,3.62,26,21,goodreads,https://www.goodreads.com/book/show/55990373-data-engineering-with-python
+Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale,Jan Kunigk,2018,4.19,26,8,goodreads,https://www.goodreads.com/book/show/43271875-architecting-modern-data-platforms
+Learning Spark: Lightning-Fast Data Analytics,Jules S. Damji,2020,4.3,152,12,goodreads,https://www.goodreads.com/book/show/50204673-learning-spark

@@ -1,7 +1,7 @@
 title,author,year,rating,ratings_count,reviews_count
 Fundamentals of Data Engineering: Plan and Build Robust Data Systems,Joe Reis,2022,4.18,929,97
-Designing Data-Intensive Applications,Martin Kleppmann,2015,4.70,10709,949
-The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Ralph Kimball,1996,4.18,1036,65
+Designing Data-Intensive Applications,Martin Kleppmann,2015,4.70,10714,949
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling,Ralph Kimball,1996,4.19,1037,65
 Data Pipelines Pocket Reference: Moving and Processing Data for Analytics,James Densmore,2021,3.77,241,31
 Database Internals: A deep-dive into how distributed data systems work,Alex Petrov,2019,4.26,561,70
 Data Mesh: Delivering Data-Driven Value at Scale,Zhamak Dehghani,2022,3.79,380,40
